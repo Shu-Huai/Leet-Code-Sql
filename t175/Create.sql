@@ -1,9 +1,11 @@
+drop table if exists Person;
 Create table If Not Exists Person
 (
     personId  int,
     firstName varchar(255),
     lastName  varchar(255)
 );
+drop table if exists Address;
 Create table If Not Exists Address
 (
     addressId int,

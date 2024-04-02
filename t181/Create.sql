@@ -1,3 +1,4 @@
+drop table if exists Employee;
 Create table If Not Exists Employee
 (
     id        int,
