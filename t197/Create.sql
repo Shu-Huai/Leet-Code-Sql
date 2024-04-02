@@ -14,4 +14,3 @@ insert into Weather (id, recordDate, temperature)
 values ('3', '2015-01-03', '20');
 insert into Weather (id, recordDate, temperature)
 values ('4', '2015-01-04', '30');
-k
