@@ -11,4 +11,4 @@ from (select id,
              lag(temperature, 1) over (order by recordDate) as last_temperature
       from Weather) a
 where temperature > last_temperature
-  and datediff(recordDate, last_date) = 1
+  and datediff(recordDate, last_date) = 1;
