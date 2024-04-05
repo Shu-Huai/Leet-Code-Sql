@@ -37,7 +37,7 @@ customerId 是 Customers 表中 ID 的外键( Pandas 中的连接键)。
 
 结果格式如下所示。
 
- **示例 1：** 
+**示例 1：**
 
 ```
 输入：
@@ -67,8 +67,6 @@ Orders table:
 ```
 
 ---
-
-
 
 ```MySQL
 ```
