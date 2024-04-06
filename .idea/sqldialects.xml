@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/t1050/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t176/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t181/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t586/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t619/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t620/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t620/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t627/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t627/Solution.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
