@@ -2,6 +2,13 @@
 <project version="4">
   <component name="SqlDialectMappings">
     <file url="file://$PROJECT_DIR$/t1050/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1050/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1068/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1068/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1075/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1075/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1084/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1084/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t176/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t181/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t586/Create.sql" dialect="MySQL" />
