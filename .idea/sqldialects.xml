@@ -86,9 +86,13 @@
     <file url="file://$PROJECT_DIR$/t586/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t602/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t602/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t608/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t608/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t619/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t620/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t620/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t626/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t626/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t627/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t627/Solution.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
