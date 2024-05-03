@@ -27,16 +27,24 @@
     <file url="file://$PROJECT_DIR$/t1179/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1193/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1193/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1204/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1204/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1211/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1211/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1251/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1251/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1280/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1280/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1321/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1321/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1327/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1327/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1341/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1341/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1378/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1378/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1393/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1393/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1407/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1407/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1484/Create.sql" dialect="MySQL" />
@@ -83,6 +91,10 @@
     <file url="file://$PROJECT_DIR$/t1873/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1873/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1890/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1907/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1907/Solution.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1934/Create.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/t1934/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1965/Create.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1965/Solution.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/t1978/Create.sql" dialect="MySQL" />
